@@ -2,7 +2,7 @@
   "name": "کاریار - مدیریت کارگران",
   "short_name": "کاریار",
   "description": "سیستم مدیریت کارگران و پروژه‌های کشاورزی",
-  "start_url": "./Karyar.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
