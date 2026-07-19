@@ -1,5 +1,5 @@
-const CACHE_NAME = 'karyar-cache-v1';
-const ASSETS = ['./Karyar.html', './manifest.json'];
+const CACHE_NAME = 'karyar-cache-v2';
+const ASSETS = ['./index.html', './manifest.json', './icon.png'];
 
 self.addEventListener('install', (event) => {
     event.waitUntil(
